@@ -1,8 +1,13 @@
-import './App.css';
+import VanillaJS from './vanillaJS/Vanilla';
 
 function App() {
   return (
-    <div>Let's get started</div>
+    <div>
+      <div>
+        Let's get started
+      </div>
+      <VanillaJS/>
+    </div>
   );
 }
 
